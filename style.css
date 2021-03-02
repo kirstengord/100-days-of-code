@@ -1,0 +1,109 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h3 {
+    font-family: 'Source Code Pro', monospace; 
+}
+
+p {
+    text-align: left;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+    
+}
+
+
+/* Containers */
+.gray-section {
+    background-color: #dddddd;
+}
+
+.container-fluid {
+    padding: 2%;
+}
+
+.day.container-fluid {
+    padding: 5%;
+  }
+
+/* Navbar */
+.navbar {
+    background-color: #ffb0b0 !important;
+}
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.nav-link {
+    text-align: right;
+}
+
+/* Title section */
+.title {
+    color: #faf3dd;
+}
+
+
+/* Favourite Projects section */
+.arrow {
+    color: black;
+}
+
+.favourites-title {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.carousel-img {
+    width: 50%;
+    border-radius: 20px;
+    border: solid 2px black;
+}
+
+.project-title {
+    padding-top: 20px;
+}
+
+.center-text {
+    text-align: center;
+}
+
+
+/* 100 days section */
+.day-image {
+    padding: 2%;
+    border-bottom: 1px solid black;
+}
+
+.day {
+    margin: 2%;
+}
+
+.btn {
+    background: #ffb0b0;
+    background-image: -webkit-linear-gradient(top, #ffb0b0, #fe7171);
+    background-image: -moz-linear-gradient(top, #ffb0b0, #fe7171);
+    background-image: -ms-linear-gradient(top, #ffb0b0, #fe7171);
+    background-image: -o-linear-gradient(top, #ffb0b0, #fe7171);
+    background-image: linear-gradient(to bottom, #ffb0b0, #fe7171);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: 'Source Code Pro', monospace;
+    color: #40514e;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ffb0b0;
+    text-decoration: none;
+  }
