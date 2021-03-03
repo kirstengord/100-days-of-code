@@ -18,6 +18,10 @@ hr {
     
 }
 
+li {
+    text-align: left;
+}
+
 
 /* Containers */
 .gray-section {
@@ -62,8 +66,10 @@ hr {
 
 .carousel-img {
     width: 50%;
+    height: 50%;
     border-radius: 20px;
     border: solid 2px black;
+    object-fit: cover;
 }
 
 .project-title {
@@ -73,6 +79,18 @@ hr {
 .center-text {
     text-align: center;
 }
+
+/* About section */
+ .rules.container-fluid {
+    padding: 0% 25%;
+       
+}
+
+.about-text {
+    padding: 0% 10%;
+}
+
+
 
 
 /* 100 days section */
