@@ -1,5 +1,5 @@
 # 100 Days of Code Challenge<br>
-https://kirstengord.github.io/100-Days-of-code/
+https://kirstengord.github.io/100-days-of-code/
 
 <h1>Day 56 4/3/21</h1>
 <p>Project: Networking<br>
