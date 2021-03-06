@@ -1,13 +1,13 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
-<h1>Day 58 - 6/3/21</h1>
-<p>PROJECT: Portfolio site</br>
-  SKILLS: JavaScript</br>
-  PROGRESS: Had a suggestion to use the TypeItjs function for my typewriter effect in my titles instead of pure CSS. Checked out the website, created a new     branch of my code to try it out. I definitely need some more JS training. I did get it to work but it had a negative effect on the positioning on my page and I   couldn't figure out how to fix it or why it happened!</br>
-  THOUGHTS: Really frustrating! But it was still good practice</p>
+## Day 58 - 6/3/21
+**Project**: Portfolio site<br>
+**Skills**: JavaScript<br>
+**Progress**: Had a suggestion to use the TypeItjs function for my typewriter effect in my titles instead of pure CSS. Checked out the website, created a new     branch of my code to try it out. I definitely need some more JS training. I did get it to work but it had a negative effect on the positioning on my page and I   couldn't figure out how to fix it or why it happened!<br>
+**Thoughts**: Really frustrating! But it was still good practice<br>
 
-<h1>Day 57 - 5/3/21</h1>
+## Day 57 - 5/3/21
 <p>PROJECT: 100 Days of Code project page</br>
   PROGRESS: Continuing to add my backdated progress to the site and my github readme.</p>
 
