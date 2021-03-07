@@ -32,9 +32,7 @@ li {
     padding: 2%;
 }
 
-.day.container-fluid {
-    padding: 5%;
-  }
+
 
 /* Navbar */
 .navbar {
@@ -81,6 +79,9 @@ li {
 }
 
 /* About section */
+#about .container-fluid {
+    padding-bottom: 0;
+}
  .rules.container-fluid {
     padding: 0% 25%;
        
@@ -91,16 +92,18 @@ li {
 }
 
 
-
-
 /* 100 days section */
+#days .container-fluid {
+    padding: 0, 5%, 5%;
+  }
+
 .day-image {
     padding: 2%;
     border-bottom: 1px solid black;
 }
 
-.day {
-    margin: 2%;
+.card-deck .card {
+    margin-bottom: 15px !important;
 }
 
 .btn {

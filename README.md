@@ -1,6 +1,11 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
+## Day 59 - 7/3/21
+_**Project**_: 100 Days of Code page
+
+_**Progress**_: Continued to add days to page and readme
+
 ## Day 58 - 6/3/21
 _**Project**_: Portfolio site
 
@@ -11,59 +16,104 @@ _**Progress**_: Had a suggestion to use the TypeItjs function for my typewriter 
 _**Thoughts**_: Really frustrating! But it was still good practice
 
 ## Day 57 - 5/3/21
-<p>PROJECT: 100 Days of Code project page</br>
-  PROGRESS: Continuing to add my backdated progress to the site and my github readme.</p>
+_**Project**_: 100 Days of Code project page
 
-<h1>Day 56 - 4/3/21</h1>
-<p>PROJECT: Networking</br>
-  Posted my portfolio site link and code link to my web dev course's Discord channel. Connected with several others on the course. Joined CodeWars. Continued to       work on 100 Days of Code project page.</br>
-  https://www.codewars.com/users/Kngord</p>
-  THOUGHTS: Discord is such a great resource
+_**Progress**_: Continuing to add my backdated progress to the site and my github readme.
 
-<h1>Day 55 - 3/3/21</h1>
-<p>PROJECT: 100 Days of Code project page</br>
-  SKILLS: HTML | CSS | Bootstrap</br>
-  Progress: Continued to add previous days to site as well as updating the README on github. Also, figured out how to set a default image for social media links</br>
-  https://stackoverflow.com/questions/19632323/default-website-image-for-social-sharing</br>
-  THOUGHTS: Stack Overflow is amazing!<p>
-  
-<h1>Day 54 - 2/3/21</h1>
-<p>PROJECT: Created a 100 Days of Code page to document my progress</br>
-SKILLS: HTML | CSS | Bootstrap</br>
-PROGRESS: HTML structure and CSS added, I've built this in the middle of the challege so I'm going to have to use my Twitter feed to go back and add previous days work.</br>
-THOUGHTS: Excited that I'm going to have this to look back on!</p>
+## Day 56 - 4/3/21 ##
+_**Project**_: Networking
 
-<h1>Day 53 - 1/3/21</h1>
-<p>PROJECT: Built a Love Calculator</br>
-  SKILLS: Javascript</br>
-  PROGRESS: Program gives a prompt to type two names then generates a random percentage "love score".</br>
-  THOUGHTS: JavaScript is not as straightforward as Python. I'm finding the syntax really difficult.</p>
+_**Progress**_: Posted my portfolio site link and code link to my web dev course's Discord channel. Connected with several others on the course. Joined CodeWars. Continued to work on 100 Days of Code project page.<br>
+https://www.codewars.com/users/Kngord
+
+_**Thoughts**_: Discord is such a great resource
+
+## Day 55 - 3/3/21
+_**Project**_: 100 Days of Code project page
+
+_**Skills**_: HTML | CSS | Bootstrap
+
+_**Progress**_: Continued to add previous days to site as well as updating the README on github. Also, figured out how to set a default image for social media links</br>
+  https://stackoverflow.com/questions/19632323/default-website-image-for-social-sharing
+
+_**Thoughts**_: Stack Overflow is amazing!
   
-<h1>Day 42 - 52 - 18/2-28/2/21</h1>
-<p>PROJECT: Portfolio site</br>
-  SKILLS: HTML | CSS | Bootstrap</br>
-  PROGRESS: Finished!</br>
-  THOUGHTS: Really happy with how it has turned out, although I might change the colours up a bit.</br>
-  https://kirstengord.github.io/portfolio/</p>
+## Day 54 - 2/3/21
+_**Project**_: Created a 100 Days of Code page to document my progress
+
+_**Skills**_: HTML | CSS | Bootstrap
+
+_**Progress**_: HTML structure and CSS added, I've built this in the middle of the challege so I'm going to have to use my Twitter feed to go back and add previous days work.
+
+_**Thoughts**_: Excited that I'm going to have this to look back on!
+
+## Day 53 - 1/3/21
+_**Project**_: Built a Love Calculator
+
+_**Skills**_: Javascript
+
+_**Progress**_: Program gives a prompt to type two names then generates a random percentage "love score".
+
+_**Thoughts**_: JavaScript is not as straightforward as Python. I'm finding the syntax really difficult.
   
-<h1>Day 49 - 25/2/2021</h1>
-<p>PROJECT: BMI Calculator</br>
-  SKILLS: Javascript</br>
-  PROGRESS: Program prompts for weight and height and calculates BMI. Returns alert to let user know if they are underweight, overweight, or normal weight.</br>
-  THOUGHTS: Can't wait to learn how to add Javascript to websites</p>
+## Day 42 - 52 - 18/2-28/2/21
+_**Project**_: Portfolio site<
+
+_**Skills**_: HTML | CSS | Bootstrap
+
+_**Progress**_: Finished!
+
+_**Thoughts**_: Really happy with how it has turned out, although I might change the colours up a bit.</br>
+  https://kirstengord.github.io/portfolio/
   
-<h1>Day 44 - 20/2/21</h1>
-<p>PROJECT:Beginner Javascript</br>
-  PROGRESS: Started on the Javascript module of my course. Learning the basics and how to use the Javascript console in Chrome DevTools</br>
-  THOUGHTS: Knowing a little bit of Python has made the logic easier but the syntax is difficult<p>
+## Day 49 - 25/2/2021
+_**Project**_: BMI Calculator
+
+_**Skills**_: Javascript
+
+_**Progress**_: Program prompts for weight and height and calculates BMI. Returns alert to let user know if they are underweight, overweight, or normal weight.
+
+_**Thoughts**_: Can't wait to learn how to add Javascript to websites
+  
+## Day 44 - 20/2/21
+_**Project**_:Beginner Javascript
+
+_**Progress**_: Started on the Javascript module of my course. Learning the basics and how to use the Javascript console in Chrome DevTools
+
+_**Thoughts**_: Knowing a little bit of Python has made the logic easier but the syntax is difficult<p>
     
-<h1>Day 38-41 - 14/2-17/2/21</h1>
-<p>PROJECT: Course project - TinDog landing page</br>
-  SKILLS: HTML | CSS | Bootstrap</br>
-  PROGRESS: Created a landing page for a new startup "TinDog" using Bootstrap. Learned how to use the Bootstrap Navbar and Bootstrap rows and collumns.</br>
-  https://kirstengord.github.io/tindog-landing-page/</p>  
+## Day 38-41 - 14/2-17/2/21
+_**Project**_: Course project - TinDog landing page
+
+_**Skills**_: HTML | CSS | Bootstrap
+
+_**Progress**_: Created a landing page for a new startup "TinDog" using Bootstrap. Learned how to use the Bootstrap Navbar and Bootstrap rows and collumns.</br>
+https://kirstengord.github.io/tindog-landing-page/  
+
+_**Thought**_: I had no idea there were frameworks like Bootstrap that made web design so much easier!
   
-<h1>Day 34-37 - 9/2-12/2/21</h1>
-<p>PROJECT: Artist portfolio site for Chuck Roach</br>
-  SKILLS: HTML | CSS | Bootstrap</br>
-  PROGRESS: This is a personal project updating an artist portfolio page. He currently uses Weebly but I am making him a new site from scratch.</br>
+## Day 34-37 - 9/2-12/2/21
+_**Project**_: Artist portfolio site for Chuck Roach
+
+_**Skills**_: HTML | CSS | Bootstrap
+
+_**Progress**_: This is a personal project updating an artist portfolio page. He currently uses Weebly but I am making him a new site from scratch.
+
+## Day 2 - 7/12/21
+_**Projects**_: 100 Days of Python Course
+
+_**Skills**_: Python variables
+
+_**Progress**_: Completed a the switching variables challenge and built a band name generator
+
+_**Thoughts**_: Python is hard but I love the challenges. I feel like so many possibilities have opened up for me now. It will just take work.
+
+## Day 1 - 6/12/21
+_**Project**_: 100 Days of Python Course
+
+_**Skills**_: Python printing, inputs
+
+_**Progress**_: Wrote a line of code to generate the lenth of your name
+
+_**Thoughts**_: I wrote my first line of code ever today...I feel like a hacker!
+
