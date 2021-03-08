@@ -1,6 +1,15 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
+## Day 60 - 8/3/21
+_**Project**_: 30 Days of Vanilla Javascript - Drum Kit
+
+_**Skills**_: JavaScript
+
+_**Progress**_: Built a keyboard drum kit using vanilla Javascript
+
+_**Thoughts**_: I have so much to learn but this was really fun!
+
 ## Day 59 - 7/3/21
 _**Project**_: 100 Days of Code page
 
