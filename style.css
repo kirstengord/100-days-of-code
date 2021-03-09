@@ -63,8 +63,7 @@ li {
 }
 
 .carousel-img {
-    width: 50%;
-    height: 50%;
+    width: 40%;
     border-radius: 20px;
     border: solid 2px black;
     object-fit: cover;

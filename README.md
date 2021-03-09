@@ -1,10 +1,20 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
-## Day 60 - 8/3/21
-_**Project**_: 30 Days of Vanilla Javascript - Drum Kit
+## Day 61 - 9/3/21
 
-_**Skills**_: JavaScript
+_**Project**_: 30 Days of JavaScript
+
+_**Skills**_: vanilla JavaScript | CSS
+
+_**Progress**_: Built a simple clock
+
+_**Thoughts**_: Everything seemed really complicated at first but by the end of the video I felt like I had a good grasp of the concepts.
+
+## Day 60 - 8/3/21
+_**Project**_: 30 Days of Javascript - Drum Kit
+
+_**Skills**_: vanilla JavaScript
 
 _**Progress**_: Built a keyboard drum kit using vanilla Javascript
 
@@ -20,7 +30,7 @@ _**Project**_: Portfolio site
 
 _**Skills**_: JavaScript
 
-_**Progress**_: Had a suggestion to use the TypeItjs function for my typewriter effect in my titles instead of pure CSS. Checked out the website, created a new     branch of my code to try it out. I definitely need some more JS training. I did get it to work but it had a negative effect on the positioning on my page and I   couldn't figure out how to fix it or why it happened! Also learned a bit about styling markdown language and have used this in this readme :-)
+_**Progress**_: Had a suggestion to use the TypeItjs function for my typewriter effect in my titles instead of pure CSS. Checked out the website, created a new branch of my code to try it out. I definitely need some more JS training. I did get it to work but it had a negative effect on the positioning on my page and I couldn't figure out how to fix it or why it happened! Also learned a bit about styling markdown language and have used this in this readme :-)
 
 _**Thoughts**_: Really frustrating! But it was still good practice
 
