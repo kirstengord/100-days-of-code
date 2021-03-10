@@ -1,8 +1,17 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
-## Day 61 - 9/3/21
+## Day 62 - 10/3/21
+_**Project**_: 30 Days of JavaScript
 
+_**Skills**_: vanilla JavaScript | CSS
+
+_**Progress**_: Built a page where you can change the spacing, blur, and border-color of the picture
+
+_**Thoughts**_: I really love working with CSS!
+
+
+## Day 61 - 9/3/21
 _**Project**_: 30 Days of JavaScript
 
 _**Skills**_: vanilla JavaScript | CSS
