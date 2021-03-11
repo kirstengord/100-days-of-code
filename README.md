@@ -1,6 +1,18 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
+## Day 3 - 11/10/21
+_**Project**_: 30 Days of JavaScript
+
+_**Skills**_: vanilla JavaScript
+
+_**Progress**_: Learned how to use .filter, .sort, .reduce, .map with arrays and worked on my Web Development Bootcamp on Udemy. I also found two great articles for self taught web developers.<br>
+https://zerotomastery.io/blog/coding-journey-struggles-mistakes-lessons-learned/
+
+https://zerotomastery.io/blog/learn-to-code-in-2021-get-hired-and-have-fun-along-the-way/
+
+Started doing javascript coding exercises on https://edabit.com/challenges
+
 ## Day 62 - 10/3/21
 _**Project**_: 30 Days of JavaScript
 
@@ -102,6 +114,15 @@ _**Skills**_: Javascript
 _**Progress**_: Program prompts for weight and height and calculates BMI. Returns alert to let user know if they are underweight, overweight, or normal weight.
 
 _**Thoughts**_: Can't wait to learn how to add Javascript to websites
+
+## Day 42-47 - 18/2-23/2/21
+_**Project**_: No Ordinary Gal Podcast landing page
+
+_**Skills**_: HTML | CSS | Bootstrap
+
+_**Progress**_: Finished!
+
+_**Thoughts**_: I had so much fun with this. This is my friend's podcast. It was great to get to use my Bootstrap skills on a real-life project.
   
 ## Day 44 - 20/2/21
 _**Project**_:Beginner Javascript
