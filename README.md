@@ -1,7 +1,16 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
-## Day 3 - 11/10/21
+## Day 64 - 12/3/21
+_**Projects**_: 30 Days of Javscript
+
+_**Skills**_:vanilla JavaScript | CSS Flexbox
+
+_**Progress**_: Built an interactive photo grid
+
+_**Thoughts**_: I continue to be amazed by what you can do with CSS. I have found another tutorial on CSS Flexbox that I am going to go through next week.
+
+## Day 63 - 11/10/21
 _**Project**_: 30 Days of JavaScript
 
 _**Skills**_: vanilla JavaScript
