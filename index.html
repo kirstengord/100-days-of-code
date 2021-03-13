@@ -29,7 +29,8 @@
     <body>
 
         <!-- Bootstrap navbar -->
-        <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <div class="container-fluid">
+        <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
             <a class="navbar-brand" href="index.html"><img class="logo" src="images/logo.png" alt="logo"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -37,7 +38,7 @@
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="#day-1">Day 1</a>
+                <a class="nav-link" href="#Day-1">Day 1</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#about">About</a>
@@ -48,6 +49,7 @@
             </ul>
             </div>
         </nav>
+      </div>
 
         <hr>
 
@@ -75,14 +77,14 @@
             </div>
             <div class="carousel-item container-fluid">
               <img class="carousel-img img-fluid" src="images/no-ordinary-gal.png" alt="No-Ordinary-Gal">
-              <h3 class="project-title">No Ordinary Gal Podcast landing page</h3>
+              <h3 class="project-title">No Ordinary Gal</h3>
               <p class="center-text"><b>Skills:</b> HTML | CSS | Bootstrap</p>
               <a href="https://kirstengord.github.io/no-ordinary-gal/" target="_blank" class="card-text btn view-button">Visit page</a>
               <a href="https://github.com/kirstengord/no-ordinary-gal" target="_blank" class="card-text btn view-button">View code</a>
           </div>
             <div class="carousel-item container-fluid">
                 <img class="carousel-img img-fluid" src="images/Day-54.png" alt="100-Days-of-Code">
-                <h3 class="project-title">100 Days of Code project page</h3>
+                <h3 class="project-title">100 Days of Code</h3>
                 <p class="center-text"><b>Skills:</b> HTML | CSS | Bootstrap</p>
                 <a href="https://kirstengord.github.io/100-days-of-code/" target="_blank" class="card-text btn view-button">Visit page</a>
                 <a href="https://github.com/kirstengord/100-days-of-code" target="_blank" class="card-text btn view-button">View code</a>
@@ -123,6 +125,18 @@
         <!-- Bootstrap Card Deck -->
         <div class="row container-fluid">
         <div class="card-deck">
+          <div class="col-md-6 col-lg-4">
+            <div class="card border-secondary">
+              <img class="day-image img-black card-img-top" src="images/DOM.png" alt="DOM-manipulation-image"">
+              <div class="card-body">
+                <h3 class="card-title">Day 65 - 12/3/21</h3>
+                <p class="card-text"><b>Project:</b> DOM manipulation</p>
+                <p class="card-text"><b>Skills:</b> JavaScript</p>
+                <p class="card-text"><b>Progress:</b> Went back through the beginner DOM lesson on my Web Development course and was able to select different HTML elements and change them using Javascript.</p>
+                <p class="card-text"><b>Thoughts:</b>  I first did this lesson about a week ago and it didn't make sense at all. I decided to take a break from it for a few days. When I've gone back over it again today it all made sense and I was actually able to complete the challenges without any trouble.</p>
+              </div>
+             </div>
+            </div>
           <div class="col-md-6 col-lg-4">
             <div class="card border-secondary">
               <img class="day-image img-black card-img-top" src="images/flex-box.png" alt="Photo-grid-image"">
@@ -790,7 +804,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6 col-lg-4">
+        <div id="Day-1" class="col-md-6 col-lg-4">
           <div class="day card border-secondary">
             <img class="day-image img-black card-img-top" src="images/Python-day1.png" alt="Day-1-image">
             <div class="card-body">
