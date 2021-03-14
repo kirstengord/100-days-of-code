@@ -134,7 +134,7 @@ _**Progress**_: Finished!
 _**Thoughts**_: I had so much fun with this. This is my friend's podcast. It was great to get to use my Bootstrap skills on a real-life project.
   
 ## Day 44 - 20/2/21
-_**Project**_:Beginner Javascript
+_**Project**_: Beginner Javascript
 
 _**Progress**_: Started on the Javascript module of my course. Learning the basics and how to use the Javascript console in Chrome DevTools
 
@@ -157,7 +157,61 @@ _**Skills**_: HTML | CSS | Bootstrap
 
 _**Progress**_: This is a personal project updating an artist portfolio page. He currently uses Weebly but I am making him a new site from scratch.
 
-## Day 2 - 7/12/21
+## Day 8 - 13/12/20
+_**Project**_: 100 Days of Python Course
+
+_**Skills**_:
+
+_**Progress**_:
+
+_**Thoughts**_:
+
+## Day 7 - 12/12/20
+_**Project**_: 100 Days of Python Course
+
+_**Skills**_:
+
+_**Progress**_:
+
+_**Thoughts**_:
+
+## Day 6 - 11/12/20
+_**Project**_: 100 Days of Python Course
+
+_**Skills**_:
+
+_**Progress**_:
+
+_**Thoughts**_:
+
+## Day 5 - 10/12/20
+_**Project**_: 100 Days of Python Course
+
+_**Skills**_:
+
+_**Progress**_:
+
+_**Thoughts**_:
+
+## Day 4 - 9/12/20
+_**Project**_: 100 Days of Python Course
+
+_**Skills**_:
+
+_**Progress**_:
+
+_**Thought**_:
+
+## Day 3 - 8/12/20
+_**Project**_: 100 Days of Python Course
+
+_**Skills**_: 
+
+_**Progress**_:
+
+_**Thoughts**_:
+
+## Day 2 - 7/12/20
 _**Projects**_: 100 Days of Python Course
 
 _**Skills**_: Python variables
@@ -166,7 +220,7 @@ _**Progress**_: Completed a the switching variables challenge and built a band n
 
 _**Thoughts**_: Python is hard but I love the challenges. I feel like so many possibilities have opened up for me now. It will just take work.
 
-## Day 1 - 6/12/21
+## Day 1 - 6/12/20
 _**Project**_: 100 Days of Python Course
 
 _**Skills**_: Python printing, inputs
