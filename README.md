@@ -1,6 +1,33 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
+## Day 67 - 15/3/21
+_**Project**_: Dicee Game
+
+_**Skills**_: HTML | CSS | Javascript
+
+_**Progress**_: Built a Dicee game using my own JavaScript
+
+_**Thoughts**_: This was the first time that I have been able to recall what I have learned and write my own Javascript to build this game. I feel like this was a big accomplishment!
+
+## Day 66 - 14/3/21
+_**Project**_: 100 Days of Code project (this page!)
+
+_**Skills**_: HTML | CSS | Bootstrap
+
+_**Progress**_: Continued to add previous days work and fixed the navbar to the top of the page.
+
+_**Thoughts**_: Still a lot of work to be done. I want to add a "Days index" and a resources page.
+
+## Day 65 - 13/3/21
+_**Project**_: DOM manipulation
+
+_**Skills**_: JavaScript
+
+_**Progress**_: Went back through the beginner DOM lesson on my Web Development course and was able to select different HTML elements and change them using Javascript.
+
+_**Thoughts**_: I first did this lesson about a week ago and it didn't make sense at all. I decided to take a break from it for a few days. When I've gone back over it again today it all made sense and I was actually able to complete the challenges without any trouble.
+
 ## Day 64 - 12/3/21
 _**Projects**_: 30 Days of Javscript
 
