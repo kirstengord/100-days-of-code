@@ -125,8 +125,9 @@ ol {
     font-family: 'Source Code Pro', monospace;
     color: #40514e;
     font-size: 16px;
-    padding: 10px 20px 10px 20px;
+    padding: 7px 10px 7px 10px;
     text-decoration: none;
+    margin: 2px !important;
   }
   
   .btn:hover {
