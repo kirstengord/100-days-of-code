@@ -1,6 +1,15 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
+## Day 68 - 16/3/21
+_**Project**_:Drum Kit
+
+_**Skills**_: Javascript
+
+_**Progress**_: Started on another drum kit project using javascript. Today's lesson explained event listeners and I was able to create an alert that said "I've been clicked!" when one of the buttons on screen was clicked.
+
+_**Thoughts**_: The lessons for this project explain the process much better than the Javascript 30 lessons did. I feel like I really understand the javascript concepts this time around.
+
 ## Day 67 - 15/3/21
 _**Project**_: Dicee Game
 
