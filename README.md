@@ -89,7 +89,7 @@ _**Skills**_: JavaScript
 
 _**Progress**_: Had a suggestion to use the TypeItjs function for my typewriter effect in my titles instead of pure CSS. Checked out the website, created a new branch of my code to try it out. I definitely need some more JS training. I did get it to work but it had a negative effect on the positioning on my page and I couldn't figure out how to fix it or why it happened! Also learned a bit about styling markdown language and have used this in this readme :-)
 
-_**Thoughts**_: Really frustrating! But it was still good practice
+_**Thoughts**_: Really frustrating! But it was still good practice.
 
 ## Day 57 - 5/3/21
 _**Project**_: 100 Days of Code project page
@@ -102,7 +102,7 @@ _**Project**_: Networking
 _**Progress**_: Posted my portfolio site link and code link to my web dev course's Discord channel. Connected with several others on the course. Joined CodeWars. Continued to work on 100 Days of Code project page.<br>
 https://www.codewars.com/users/Kngord
 
-_**Thoughts**_: Discord is such a great resource
+_**Thoughts**_: Discord is such a great resource for new web developers, especially if you are self taught.
 
 ## Day 55 - 3/3/21
 _**Project**_: 100 Days of Code project page
