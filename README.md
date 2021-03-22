@@ -1,12 +1,39 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
-## Day 68 - 16/3/21
+## Day 74 - 22/3/21
+_**Project**_: Simon Game
+
+_**Skills**_: HTML | CSS | jQuery
+
+_**Progress**_:  I finished the game today and it works!
+
+_**Thoughts**_: This was a complicated project but it all came together in the end and it is fun to play! I've now come to the end of my front-end section of my course. I'm going to spend the next week completing some unfinished projects before I move on the the back-end section.
+
+## Day 72-73 - 20/3-21/3/21
+_**Project**_: Girl Power Quote Generator
+
+_**Skills**_: HTML | CSS | vanilla JavaScript
+
+_**Progress**_: I wanted to get a bit more practice with vanilla JavaScript so I built a Girl Power Quote generator which selects a random image with a quote each time the "New Quote" button is pushed.
+
+_**Thoughts**_: It feels like such an accomplishment to make a unique project that uses JavaScript and it actually works! I still need to add lots more quote images and work on the styling but I'm really proud of this.
+
+ ## Day 71 - 19/3/21
+_**Project**_: Simon Game
+
+_**Skills**_: jQuery
+
+_**Progress**_:  Started building a Simon game using jQuery. Added event listeners to buttons and made buttons flash on click. Still have quite a bit to do to finish the game.
+
+_**Thoughts**_: Using a library makes JavaScript so much easier!
+
+## Day 68-70 - 16/3-18/3/21
 _**Project**_:Drum Kit
 
 _**Skills**_: Javascript
 
-_**Progress**_: Started on another drum kit project using javascript. Today's lesson explained event listeners and I was able to create an alert that said "I've been clicked!" when one of the buttons on screen was clicked.
+_**Progress**_: Day 68 - Started on another drum kit project using javascript. Today's lesson explained event listeners and I was able to create an alert that said "I've been clicked!" when one of the buttons on screen was clicked.<br>Day 69 - Learned about constructor functions and added images and sounds to drum kit. Each drum now plays a different sound when clicked or a keyboard press.<br>Day 70 - Added animations when buttons are clicked or pressed. Drum kit finished!
 
 _**Thoughts**_: The lessons for this project explain the process much better than the Javascript 30 lessons did. I feel like I really understand the javascript concepts this time around.
 
