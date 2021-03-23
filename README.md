@@ -1,6 +1,15 @@
 # 100 Days of Code Challenge<br>
 https://kirstengord.github.io/100-days-of-code/
 
+## Day 75 - 23/3/21
+_**Project**_:Finishing old projects
+
+_**Skills**_: HTML | CSS | Bootstrap
+
+_**Progress**_:  I have finished the front-end section of my Web Development bootcamp so I spent today working on finishing up some of the projects that I had started.
+
+_**Thoughts**_: I can't believe it's been 75 days!
+
 ## Day 74 - 22/3/21
 _**Project**_: Simon Game
 
