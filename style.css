@@ -62,6 +62,8 @@ ol {
     background: #fd3a69;
     background: linear-gradient(127deg, #fd3a69 0%, #05dfd7 40%, #fecd1a 100%);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 .logo {
@@ -73,7 +75,7 @@ ol {
 .nav-link {
     color: #222121 !important;
     text-align: right;
-    padding-left: 30px !important;
+    padding-left: 40px !important;
 }
 
 /* Title section */
