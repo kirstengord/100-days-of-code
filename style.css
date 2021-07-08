@@ -1,8 +1,7 @@
 
 
 body {
-    color: white;
-    background-color: #363535;
+    color: #222121;
     text-align: center;
     font-family: 'Open Sans', sans-serif;
     padding-top: 60px;
@@ -36,9 +35,8 @@ ol {
 }
 
 /* Containers */
-.gray-section {
-    background-color: #222121;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+.white-section {
+    background-color: white;
     border-radius: 10px;
     width: 100%;
 }
@@ -47,23 +45,18 @@ ol {
     padding: 2%;
 }
 
-.gradient-border {
-    background: #fd3a69;
-    background: linear-gradient(127deg, #fd3a69 0%, #05dfd7 40%, #fecd1a 100%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+.dark-border {
+    background-color: #222121;
     border-radius: 10px;
-    width: 60%;
+    width: 70%;
     padding: 10px;
 }
 
 
 /* Navbar */
 .navbar {
-    background: #fd3a69;
-    background: linear-gradient(127deg, #fd3a69 0%, #05dfd7 40%, #fecd1a 100%);
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    padding-left: 5%;
-    padding-right: 5%;
+    background-color: #222121 !important;
+    padding: 0 5%;
 }
 
 .logo {
@@ -73,7 +66,7 @@ ol {
 }
 
 .nav-link {
-    color: #222121 !important;
+    color: white !important;
     text-align: right;
     padding-left: 40px !important;
 }
@@ -109,7 +102,6 @@ section#favourites {
     border-radius: 10px;
     border: solid 2px black;
     object-fit: cover;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .5), 0 6px 20px 0 rgba(0, 0, 0, .8);
 }
 
 .project-title {
@@ -121,12 +113,12 @@ section#favourites {
 }
 
 /* About section */
-section#about {
+#about {
     padding-bottom: 5%;
 }
 
 .rules.container-fluid {
-    padding: 0% 15%;     
+    padding: 0% 5%;     
 }
 
 .about-text {
@@ -155,7 +147,6 @@ section#about {
 }
 
 .card {
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 1), 0 6px 20px 0 rgba(0, 0, 0, 1);
     border-radius: 10px;
 }
 
