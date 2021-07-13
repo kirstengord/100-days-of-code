@@ -155,14 +155,8 @@ section#favourites {
 }
 
 .btn {
-    background: #ffb0b0;
-    background-image: -webkit-linear-gradient(top, #f5abe4, #fd3a69);
-    /* background-image: -moz-linear-gradient(top, #fecd1a, #fd3a69);
-    background-image: -ms-linear-gradient(top, #fecd1a, #fd3a69);
-    background-image: -o-linear-gradient(top, #fecd1a, #fd3a69);
-    background-image: linear-gradient(to bottom, #fecd1a, #fd3a69); */
-    -webkit-border-radius: 8;
-    -moz-border-radius: 8;
+    background: #fd3a69;
+  
     border-radius: 8px;
     border: none;
     text-shadow: 1px 1px 3px #666666;
@@ -181,12 +175,33 @@ section#favourites {
     text-decoration: none;
   }
 
+  .btn-secondary {
+    background: white;
+    border-radius: 8px;
+    border: solid 2px #fd3a69;
+    text-shadow: 1px 1px 3px #666666;
+    font-family: 'Source Code Pro', monospace;
+    color: #221121;
+    font-size: 16px;
+    padding: 7px 10px;
+    text-decoration: none;
+    margin: 2px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .btn-secondary:hover {
+    background: #05dfd7;
+    color: #221121;
+    border: none;
+    text-decoration: none;
+  }
+
   /* footer section */
   footer {
       padding: 2% 0;
   }
-  .white {
-      color: white;
+  .icon {
+      color: #221121;
       padding: 10px 20px;
   }
 
